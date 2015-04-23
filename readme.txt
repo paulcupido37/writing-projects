@@ -7,3 +7,5 @@ The 'in progress' branch will be for works that I am still working on.
 The 'ideas' branch will be for ideas for new documents and projects to work on.
 	ideas must never be merged with master. 
 	in progress will eventually be merged with master.
+	
+Currently busy with review/Catherine. I will want to add my reviews of Darksiders and God of War 3 to the in-progress repository as well.
