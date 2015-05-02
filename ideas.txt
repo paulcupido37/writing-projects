@@ -2,8 +2,9 @@ This file exists to store any ideas that I have for future writing projects and 
 
 
 Creative Writing: Stores any short stories and creative ideas that I come up with and write.
-	-> Rewrite: That Day
+	-> Rewrite: That Day (in progress)
 	-> Write: From Heads Unworthy
+	-> Write: Skylar Clarke and Keith Buchant
 
 Design Documents: Any design documents that I create
 	-> Champions of Olympus
