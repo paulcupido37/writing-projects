@@ -13,6 +13,7 @@ Design Documents: Any design documents that I create
 	
 Review: Stores and reviews/ critiques that I have on properties that interest me.
 	-> Darksiders 2
+	-< Prince of Persia (2008)
 	-> Resonance of Fate
 	-> Alice: Madness Returns
 	-> Remember Me
