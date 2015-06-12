@@ -3,10 +3,10 @@ Description:
 ------------------------------------------------------------------------------------------------------------
 
 Creative Writing: Stores any short stories and creative ideas that I come up with and write.
-	-> Rewrite: That Day (in progress)
 	-> Write: From Heads Unworthy
 	-> Write: Skylar Clarke and Keith Buchant
-
+	-> The World's Finest: Batgirl and Supergirl
+	
 Design Documents: Any design documents that I create
 	-> Champions of Olympus
 	-> Redwing Chronicles: Arisen 2
