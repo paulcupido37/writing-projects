@@ -5,13 +5,28 @@ Description:
 Creative Writing: Stores any short stories and creative ideas that I come up with and write.
 	-> Write: From Heads Unworthy
 	-> Write: Paper Walls (Keith Buchant and Skye Clarke)
-	-> The World's Finest: Batgirl and Supergirl
+	-> Write: Reicer (An conversation with Scarlett)
+	-> Write: The World's Finest: Batgirl and Supergirl
+	-> Write: A dangerous ambition 
+				Possibly the tyranny of abstraction. The idea being that people do horrible things in the name of some perceived greater good.
+				While the goal could be noble it is the actions taken to achieve that goal that issue should be taken with.
+For now, this section of writing projects is being shut down as it is time-consuming and doesn't work towards a foreseeable goal. 
+While I like writing fiction, it has become a distraction away from what is important. 
 	
 Design Documents: Any design documents that I create
 	-> Champions of Olympus
 	-> Redwing Chronicles: Arisen 2
+		This is meant to be a continuation of the Terran Chronicles series. Arisen 2 is a reflection on Arisen 1 with a 
+	-> Dynasty: Civil War (Brother, my brother)
+		This is an idea that I came up with a while ago but Matthew stoked the fires of recently. 
+		He wanted to create a war game where one played soldiers on both sides of the conflict to make a point about war being hell.
+		Personally I would set this in the context of a Civil War (possibly the Cryan Civil War)
+		This was initially meant to be a mechanics-based board game but I'd like to see what comes out of a collaboration with Matt.
+		
+This section should take the place of the creative-writing section. If I am going to spend time writing it should be about something that will
+have foreseeable benefits and serves part of an overarching goal.  
 	
-Review: Stores and reviews/ critiques that I have on properties that interest me.
+Review: Reviews/ critiques that I have on properties that interest me.
 	-> Darksiders 2
 	-< Prince of Persia (2008)
 	-> Resonance of Fate
@@ -26,6 +41,17 @@ Review: Stores and reviews/ critiques that I have on properties that interest me
 	through a mass of sentient inkblots.
 	-> I'd love to create a story with flowery imagery and a dark undercurrent.
 	-> Female protagonist? Maybe Juliet Stone
+	
+Editorials and Exercises: Any opinion pieces/ discursive essays that I write a particular subject. This is envisioned as being about gaming but it 
+could extended to just about anything
+		
+	-> 	Write an essay discussing two contrasting systems of morality in games you have played. 
+		What actions does each game reward and what actions does it punish? 
+		Address the relationship of right behaviour in the game with right behaviour in the real world.
+		Actions: Reread the chapter on Game Worlds then select 2 games with contrasting morality systems for this essay (1500 word limit)
+		Deadline: 20 July 2015
+	->
+
 	
 	Scarlett Reicer
 	----------------
