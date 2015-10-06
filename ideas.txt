@@ -4,15 +4,25 @@ Description:
 
 Creative Writing: Stores any short stories and creative ideas that I come up with and write.
 	-> Write: From Heads Unworthy
-	-> Write: Paper Walls (Keith Buchant and Skye Clarke)
+	-> Write: Paper Walls (Busy writing)
 	-> Write: Reicer (An conversation with Scarlett)
+	-> Write: Among Gods/ Crown of Thorns/ From Heads Unworthy  (Basically the follow-up to 'Of Knights and Fair Maidens')
 	-> Write: The World's Finest: Batgirl and Supergirl
-	-> Write: A dangerous ambition 
-				Possibly the tyranny of abstraction. The idea being that people do horrible things in the name of some perceived greater good.
-				While the goal could be noble it is the actions taken to achieve that goal that issue should be taken with.
-For now, this section of writing projects is being shut down as it is time-consuming and doesn't work towards a foreseeable goal. 
-While I like writing fiction, it has become a distraction away from what is important. 
-	
+
+-------
+The crown slips from heads unworthy
+You're a god among mortals. Never forget that.	
+-------	
+Nicole
+>Regret, responsibility and growing up
+Paper Walls
+>Unity, reconciliation and the value of one life
+Dark Waltz
+> Exploration of a special world (an underworld)
+Destiny Bond
+> Deconstruction of YA Romance
+-------
+
 Design Documents: Any design documents that I create
 	-> Champions of Olympus
 	-> Redwing Chronicles: Arisen 2
